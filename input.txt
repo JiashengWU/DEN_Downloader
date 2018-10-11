@@ -1,0 +1,9 @@
+# url_prefix
+https://denawswz.uscden.net/aws/_definst_/smil:amazons3/gwz/CSCI561_2018311020181008/CSCI561_2018311020181008.smil/media_w1909375887_b794100_sleng_
+
+# ts_file_num
+527
+
+# output_name
+Lecture Video wk8 20181008
+#Discussion wk7
