@@ -1,9 +1,10 @@
 ########################################
 # Jiasheng Wu
-# Sep 26, 2018
+# Oct 16, 2018
 ########################################
+import os
 
-folder_path = '/Users/wjs-mbp/Downloads/den_downloader'
+folder_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 
 input_path = folder_path + '/input.txt'
 output_path1 = folder_path + '/util/file_list.txt'
